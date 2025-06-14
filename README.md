@@ -133,20 +133,6 @@ Integrates [Dune Analytics](https://dune.com) and [1inch API](https://api.1inch.
 
 ---
 
-## 🤝 Contributing  
-1. Fork the repository.  
-2. Create a feature branch (`git checkout -b feature/new-tool`).  
-3. Commit changes (`git commit -am 'Add new tool'`).  
-4. Push to the branch (`git push origin feature/new-tool`).  
-5. Open a pull request.  
-
----
-
-## 📄 License  
-MIT License – see `LICENSE` for details.  
-
----
-
 ### 🚀 Built With  
 - [Model Context Protocol SDK](https://modelcontextprotocol.org/)  
 - [Axios](https://axios-http.com) for HTTP requests  
@@ -154,14 +140,3 @@ MIT License – see `LICENSE` for details.
 - [1inch API](https://api.1inch.dev)  
 
 ---
-
-### 📬 Questions?  
-Contact [your_email] or open an issue on GitHub.  
-
----
-
-**Star ⭐ if you found this useful!**  
-
---- 
-
-This README follows GitHub’s [best practices](https://docs.github.com/en/collections/010-getting-started-with-github/030-what-is-a-readme) (https://docs.github.com/en/collections/010-getting-started-with-github/030-what-is-a-readme) and includes code-specific details like tool examples and API key setup. Let me know if you need adjustments!
